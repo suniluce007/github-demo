@@ -1,12 +1,6 @@
 This a simple Mermaid Diagram
 
-```mermaid
-flowchart LR
-A --> B
-B --> C
-C --> B
-C --> A
-```
+# \`\`\`stl solid cube\_corner  facet normal 0.0 -1.0 0.0    outer loop      vertex 0.0 0.0 0.0      vertex 1.0 0.0 0.0      vertex 0.0 0.0 1.0    endloop  endfacet  facet normal 0.0 0.0 -1.0    outer loop      vertex 0.0 0.0 0.0      vertex 0.0 1.0 0.0      vertex 1.0 0.0 0.0    endloop  endfacet  facet normal -1.0 0.0 0.0    outer loop      vertex 0.0 0.0 0.0      vertex 0.0 0.0 1.0      vertex 0.0 1.0 0.0    endloop  endfacet  facet normal 0.577 0.577 0.577    outer loop      vertex 1.0 0.0 0.0      vertex 0.0 1.0 0.0      vertex 0.0 0.0 1.0    endloop  endfacet endsolid \`\`\`
 
 # github-demo
 
