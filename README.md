@@ -1,4 +1,10 @@
-<table><tbody><tr><td>first col</td><td>second col</td><td>third col</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr></tbody></table>
+```mermaid
+flowchart LR
+A --> B
+B --> C
+C --> B
+C --> A
+```
 
 # github-demo
 
