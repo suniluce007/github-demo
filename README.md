@@ -1,3 +1,5 @@
+This a simple Mermaid Diagram
+
 ```mermaid
 flowchart LR
 A --> B
