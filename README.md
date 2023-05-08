@@ -1,5 +1,5 @@
 # github-demo
-# Edited using: https://mermaid.js.org/syntax/stateDiagram.html
+Edited using: https://mermaid.js.org/syntax/stateDiagram.html
 
 A simple demo repository to understand GIT.
 
